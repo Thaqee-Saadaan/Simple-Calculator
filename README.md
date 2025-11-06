@@ -19,6 +19,8 @@ It performs simple arithmetic operations — addition, subtraction, multiplicati
 
 * Simple and beginner-friendly Python syntax
 
+* Thanking note at end
+
 ### 🧠 How It Works
 
 1) The program asks the user to enter an arithmetic operator (+, -, *, or /).
