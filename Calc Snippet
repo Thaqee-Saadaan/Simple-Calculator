@@ -1,0 +1,18 @@
+o=input("Enter the arithmetic operator(+,-,* or /): ")
+a=float(input("Enter the First number: "))
+b=float(input("Enter the Second number: "))
+if o == "+":
+    result = a+b
+    print(result)
+elif o == "-":
+    result = a-b
+    print(result)
+elif o == "*":
+    result = a*b
+    print(result)
+elif o == "/":
+    result = a/b
+    print(result)
+else:
+    print(f"{operator} is not a valid operator")
+print("Thank you!")
